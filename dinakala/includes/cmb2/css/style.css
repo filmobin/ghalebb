@@ -1,0 +1,21 @@
+.cmb-type-pw-multiselect .select2-selection__choice,
+.cmb-type-pw-multiselect .select2-search--inline {
+	margin-bottom: 0;
+	line-height: inherit;
+}
+
+.cmb-type-pw-multiselect .select2-selection__choice {
+	cursor: move !important;
+}
+
+.pw_select2 {
+	min-width: 170px;
+}
+
+.ficon_select span.select2-selection.select2-selection--single {
+    min-width: 200px;
+}
+
+.select2-results__option ,.ficon_select, .select2-chosen,.select2-drop {
+    font-family: fal-icon,fab-icon,tahoma,sans-serif!important
+}

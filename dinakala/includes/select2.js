@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery(".icons-font-awesome").select2()}),jQuery(document).ajaxSuccess(function(){jQuery(".icons-font-awesome").select2()});

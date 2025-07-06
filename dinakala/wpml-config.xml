@@ -1,0 +1,222 @@
+<wpml-config>
+  <admin-texts>
+    <key name="di_data">
+      <key name="site_logo">
+        <key name="url"/>
+      </key>
+      <key name="site_logo_retina">
+        <key name="url"/>
+      </key>
+      <key name="dark_site_logo">
+        <key name="url"/>
+      </key>
+      <key name="dark_site_logo_retina">
+        <key name="url"/>
+      </key>
+      <key name="sticky_logo">
+        <key name="url"/>
+      </key>		
+      <key name="img_msg_image">
+        <key name="url"/>
+      </key>		
+      <key name="img_msg_image_mobile">
+        <key name="url"/>
+      </key>		
+      <key name="head_banner">
+        <key name="url"/>
+      </key>		
+      <key name="head_banner_mobile">
+        <key name="url"/>
+      </key>		
+      <key name="menu_panel_image">
+        <key name="url"/>
+      </key>		
+      <key name="login_panel_image">
+        <key name="url"/>
+      </key>		
+      <key name="user_panel_image">
+        <key name="url"/>
+      </key>		
+      <key name="dashboard_banner">
+        <key name="url"/>
+      </key>		
+      <key name="post_top_banner">
+        <key name="url"/>
+      </key>
+      <key name="post_bottom_banner">
+        <key name="url"/>
+      </key>
+      <key name="site_popup_image">
+        <key name="url"/>
+      </key>
+      <key name="custom_tel_link_addr"/>
+      <key name="custom_email_link_addr"/>
+      <key name="custom_ftel_link_addr"/>
+      <key name="custom_fmail_link_addr"/>
+      <key name="wordpress_email_name"/>
+      <key name="add_prod_btn_link_target"/>
+      <key name="second_add_prod_btn_link_target"/>
+      <key name="second_add_prod_popup_title"/>
+      <key name="second_add_prod_popup_text"/>
+      <key name="faq_product_tab_title"/>
+      <key name="dl_box_pass"/>
+      <key name="site_popup_image_pos"/>
+      <key name="so_phone_link"/>
+      <key name="so_mobile_link"/>
+      <key name="so_email_link"/>
+      <key name="logo_link"/>
+      <key name="maintenance_title"/>
+      <key name="maintenance_msg"/>
+      <key name="mobile_menu_text"/>
+      <key name="search_shortcode"/>
+      <key name="dina_login_redirect_url"/>
+      <key name="dina_logout_redirect_url"/>
+      <key name="userbtns_shortcode"/>
+      <key name="site_msg"/>
+      <key name="msg_btn_text"/>
+      <key name="msg_btn_link"/>
+      <key name="site_tel"/>
+      <key name="site_tel_link"/>
+      <key name="site_tel2"/>
+      <key name="site_email"/>
+      <key name="site_email_link"/>
+      <key name="img_msg_title"/>
+      <key name="bar_prods_title"/>
+      <key name="bar_sales_title"/>
+      <key name="bar_users_title"/>
+      <key name="bar_posts_title"/>
+      <key name="addr_text"/>
+      <key name="alert_app_title"/>
+      <key name="ftext_title"/>
+      <key name="ftext_text"/>
+      <key name="copy_text"/>
+      <key name="back_top_btn_title"/>
+      <key name="whish_btn_title"/>
+      <key name="compare_btn_title"/>
+      <key name="social_btn_title"/>
+      <key name="second_social_btn_title"/>
+      <key name="reset_var_text"/>
+      <key name="prodf_title"/>
+      <key name="related_p_title"/>
+      <key name="extra_one_title"/>
+      <key name="extra_two_title"/>
+      <key name="extra_three_title"/>
+      <key name="extra_four_title"/>
+      <key name="extra_five_title"/>
+      <key name="add_prod_info_text"/>
+      <key name="add_prod_btn_title"/>
+      <key name="add_prod_popup_title"/>
+      <key name="add_prod_popup_text"/>
+      <key name="product_brand_tab_title"/>
+      <key name="related_post_title"/>
+      <key name="dl_guide_title"/>
+      <key name="dl_guide_text"/>
+      <key name="add_prod_tab_one_title"/>
+      <key name="add_prod_tab_one_content"/>
+      <key name="add_prod_tab_two_title"/>
+      <key name="add_prod_tab_two_content"/>
+      <key name="dashboard_message_one"/>
+      <key name="dashboard_message_two"/>
+      <key name="dashboard_message_three"/>
+      <key name="dashboard_message_four"/>
+      <key name="dashboard_message_five"/>
+      <key name="address_label"/>
+      <key name="post_top_banner_title"/>
+      <key name="post_bottom_banner_title"/>
+      <key name="up_sells_title"/>
+      <key name="home_text"/>
+      <key name="menu_bar_btn_text"/>
+      <key name="login_notices_text"/>
+      <key name="menu_bar_btn_link"/>
+      <key name="login_link"/>
+      <key name="register_link"/>
+      <key name="img_msg_link"/>
+      <key name="head_banner_link"/>
+      <key name="head_banner_title"/>
+      <key name="bar_info5_title"/>
+      <key name="bar_info6_title"/>
+      <key name="mobile_nav_btn_one_title"/>
+      <key name="mobile_nav_btn_one_link"/>
+      <key name="mobile_nav_btn_two_title"/>
+      <key name="mobile_nav_btn_two_link"/>
+      <key name="back_top_btn_link"/>
+      <key name="whish_btn_link"/>
+      <key name="compare_btn_link"/>
+      <key name="social_btn_link"/>
+      <key name="second_social_btn_link"/>
+      <key name="third_social_btn_title"/>
+      <key name="third_social_btn_link"/>
+      <key name="fourth_social_btn_title"/>
+      <key name="fourth_social_btn_link"/>
+      <key name="fifth_social_btn_title"/>
+      <key name="fifth_social_btn_link"/>
+      <key name="attr_symbol_tick"/>
+      <key name="attr_symbol_cross"/>
+      <key name="coming_soon_text"/>
+      <key name="outofstock_text"/>
+      <key name="free_price_text"/>
+	    <key name="zero_call_text"/>
+	    <key name="price_from_text"/>
+      <key name="price_upto_text"/>
+      <key name="cross_sells_title"/>
+      <key name="related_product_posts_title"/>
+      <key name="add_prod_info_title"/>
+      <key name="add_prod_tab_three_title"/>
+      <key name="add_prod_tab_three_content"/>
+      <key name="add_prod_tab_four_title"/>
+      <key name="add_prod_tab_four_content"/>
+      <key name="public_product_meta_one_title"/>
+      <key name="public_product_meta_one_value"/>
+      <key name="public_product_meta_one_link"/>
+      <key name="public_product_meta_two_title"/>
+      <key name="public_product_meta_two_value"/>
+      <key name="public_product_meta_two_link"/>
+      <key name="public_product_meta_three_title"/>
+      <key name="public_product_meta_three_value"/>
+      <key name="public_product_meta_three_link"/>
+      <key name="public_product_meta_four_title"/>
+      <key name="public_product_meta_four_value"/>
+      <key name="public_product_meta_four_link"/>
+      <key name="public_product_meta_five_title"/>
+      <key name="public_product_meta_five_value"/>
+      <key name="public_product_meta_five_link"/>
+      <key name="product_page_message_one_content"/>
+      <key name="product_page_message_two_content"/>
+      <key name="product_page_message_three_content"/>
+      <key name="product_page_message_four_content"/>
+      <key name="order_tracking_code_title"/>
+      <key name="dashboard_banner_link"/>
+      <key name="dashboard_banner_title"/>
+      <key name="dashboard_link_one_title"/>
+      <key name="dashboard_link_one_url"/>
+      <key name="dashboard_link_two_title"/>
+      <key name="dashboard_link_two_url"/>
+      <key name="dashboard_link_three_title"/>
+      <key name="dashboard_link_three_url"/>
+      <key name="dashboard_link_four_title"/>
+      <key name="dashboard_link_four_url"/>
+      <key name="dashboard_link_five_title"/>
+      <key name="dashboard_link_five_url"/>
+      <key name="dashboard_link_six_title"/>
+      <key name="dashboard_link_six_url"/>
+      <key name="dashboard_link_seven_title"/>
+      <key name="dashboard_link_seven_url"/>
+      <key name="dashboard_link_eight_title"/>
+      <key name="dashboard_link_eight_url"/>
+      <key name="dashboard_link_nine_title"/>
+      <key name="dashboard_link_nine_url"/>
+      <key name="dashboard_link_ten_title"/>
+      <key name="dashboard_link_ten_url"/>
+      <key name="related_post_products_title"/>
+      <key name="post_top_banner_link"/>
+      <key name="post_bottom_banner_link"/>
+      <key name="site_popup_title"/>
+      <key name="site_popup_content_text"/>
+      <key name="site_popup_button_title"/>
+      <key name="site_popup_button_link"/>
+      <key name="and_link"/>
+      <key name="ios_link"/>
+      <key name="add_prod_btn_link"/>
+    </key>
+  </admin-texts>
+</wpml-config>
